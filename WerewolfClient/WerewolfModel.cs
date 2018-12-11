@@ -338,6 +338,7 @@ namespace WerewolfClient
         {
             try
             {
+                InitilizeModel(server);
                 PlayerApi playerEP = new PlayerApi(server);
                 Player p = new Player(null, login, password, null, null, null, Player.StatusEnum.Offline);
                 _player = playerEP.AddPlayer(p);
