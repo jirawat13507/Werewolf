@@ -399,5 +399,10 @@ namespace WerewolfClient
                 controller.ActionPerformed(wcmd);
             }
         }
+
+        private void LBTime_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
