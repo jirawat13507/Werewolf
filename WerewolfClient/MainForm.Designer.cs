@@ -88,7 +88,7 @@
             this.GBPlayers.Margin = new System.Windows.Forms.Padding(4);
             this.GBPlayers.Name = "GBPlayers";
             this.GBPlayers.Padding = new System.Windows.Forms.Padding(4);
-            this.GBPlayers.Size = new System.Drawing.Size(516, 478);
+            this.GBPlayers.Size = new System.Drawing.Size(525, 586);
             this.GBPlayers.TabIndex = 0;
             this.GBPlayers.TabStop = false;
             this.GBPlayers.Text = "Players";
@@ -99,7 +99,7 @@
             this.BtnPlayer15.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer15.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer15.Image")));
             this.BtnPlayer15.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer15.Location = new System.Drawing.Point(371, 347);
+            this.BtnPlayer15.Location = new System.Drawing.Point(389, 455);
             this.BtnPlayer15.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer15.Name = "BtnPlayer15";
             this.BtnPlayer15.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -116,7 +116,7 @@
             this.BtnPlayer14.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer14.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer14.Image")));
             this.BtnPlayer14.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer14.Location = new System.Drawing.Point(253, 347);
+            this.BtnPlayer14.Location = new System.Drawing.Point(264, 455);
             this.BtnPlayer14.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer14.Name = "BtnPlayer14";
             this.BtnPlayer14.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -133,7 +133,7 @@
             this.BtnPlayer13.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer13.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer13.Image")));
             this.BtnPlayer13.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer13.Location = new System.Drawing.Point(136, 347);
+            this.BtnPlayer13.Location = new System.Drawing.Point(136, 455);
             this.BtnPlayer13.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer13.Name = "BtnPlayer13";
             this.BtnPlayer13.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -150,7 +150,7 @@
             this.BtnPlayer12.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer12.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer12.Image")));
             this.BtnPlayer12.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer12.Location = new System.Drawing.Point(20, 347);
+            this.BtnPlayer12.Location = new System.Drawing.Point(8, 455);
             this.BtnPlayer12.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer12.Name = "BtnPlayer12";
             this.BtnPlayer12.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -167,7 +167,7 @@
             this.BtnPlayer11.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer11.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer11.Image")));
             this.BtnPlayer11.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer11.Location = new System.Drawing.Point(371, 239);
+            this.BtnPlayer11.Location = new System.Drawing.Point(389, 310);
             this.BtnPlayer11.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer11.Name = "BtnPlayer11";
             this.BtnPlayer11.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -184,7 +184,7 @@
             this.BtnPlayer10.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer10.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer10.Image")));
             this.BtnPlayer10.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer10.Location = new System.Drawing.Point(253, 239);
+            this.BtnPlayer10.Location = new System.Drawing.Point(264, 310);
             this.BtnPlayer10.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer10.Name = "BtnPlayer10";
             this.BtnPlayer10.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -201,7 +201,7 @@
             this.BtnPlayer9.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer9.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer9.Image")));
             this.BtnPlayer9.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer9.Location = new System.Drawing.Point(136, 239);
+            this.BtnPlayer9.Location = new System.Drawing.Point(136, 310);
             this.BtnPlayer9.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer9.Name = "BtnPlayer9";
             this.BtnPlayer9.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -218,7 +218,7 @@
             this.BtnPlayer8.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer8.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer8.Image")));
             this.BtnPlayer8.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer8.Location = new System.Drawing.Point(20, 239);
+            this.BtnPlayer8.Location = new System.Drawing.Point(8, 310);
             this.BtnPlayer8.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer8.Name = "BtnPlayer8";
             this.BtnPlayer8.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -235,7 +235,7 @@
             this.BtnPlayer7.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer7.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer7.Image")));
             this.BtnPlayer7.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer7.Location = new System.Drawing.Point(371, 130);
+            this.BtnPlayer7.Location = new System.Drawing.Point(389, 174);
             this.BtnPlayer7.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer7.Name = "BtnPlayer7";
             this.BtnPlayer7.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -252,7 +252,7 @@
             this.BtnPlayer6.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer6.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer6.Image")));
             this.BtnPlayer6.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer6.Location = new System.Drawing.Point(253, 130);
+            this.BtnPlayer6.Location = new System.Drawing.Point(264, 174);
             this.BtnPlayer6.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer6.Name = "BtnPlayer6";
             this.BtnPlayer6.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -269,7 +269,7 @@
             this.BtnPlayer5.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer5.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer5.Image")));
             this.BtnPlayer5.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer5.Location = new System.Drawing.Point(136, 130);
+            this.BtnPlayer5.Location = new System.Drawing.Point(136, 174);
             this.BtnPlayer5.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer5.Name = "BtnPlayer5";
             this.BtnPlayer5.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -286,7 +286,7 @@
             this.BtnPlayer4.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer4.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer4.Image")));
             this.BtnPlayer4.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer4.Location = new System.Drawing.Point(20, 130);
+            this.BtnPlayer4.Location = new System.Drawing.Point(8, 174);
             this.BtnPlayer4.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer4.Name = "BtnPlayer4";
             this.BtnPlayer4.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -303,7 +303,7 @@
             this.BtnPlayer3.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer3.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer3.Image")));
             this.BtnPlayer3.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer3.Location = new System.Drawing.Point(371, 23);
+            this.BtnPlayer3.Location = new System.Drawing.Point(389, 33);
             this.BtnPlayer3.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer3.Name = "BtnPlayer3";
             this.BtnPlayer3.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -320,7 +320,7 @@
             this.BtnPlayer2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer2.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer2.Image")));
             this.BtnPlayer2.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer2.Location = new System.Drawing.Point(253, 23);
+            this.BtnPlayer2.Location = new System.Drawing.Point(264, 33);
             this.BtnPlayer2.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer2.Name = "BtnPlayer2";
             this.BtnPlayer2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -337,7 +337,7 @@
             this.BtnPlayer1.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer1.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer1.Image")));
             this.BtnPlayer1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer1.Location = new System.Drawing.Point(136, 23);
+            this.BtnPlayer1.Location = new System.Drawing.Point(136, 33);
             this.BtnPlayer1.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer1.Name = "BtnPlayer1";
             this.BtnPlayer1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -354,7 +354,7 @@
             this.BtnPlayer0.ForeColor = System.Drawing.SystemColors.ControlText;
             this.BtnPlayer0.Image = ((System.Drawing.Image)(resources.GetObject("BtnPlayer0.Image")));
             this.BtnPlayer0.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.BtnPlayer0.Location = new System.Drawing.Point(20, 23);
+            this.BtnPlayer0.Location = new System.Drawing.Point(8, 33);
             this.BtnPlayer0.Margin = new System.Windows.Forms.Padding(4);
             this.BtnPlayer0.Name = "BtnPlayer0";
             this.BtnPlayer0.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -370,7 +370,7 @@
             this.GBChat.BackColor = System.Drawing.Color.CornflowerBlue;
             this.GBChat.Controls.Add(this.TbChatInput);
             this.GBChat.Controls.Add(this.TbChatBox);
-            this.GBChat.Location = new System.Drawing.Point(551, 15);
+            this.GBChat.Location = new System.Drawing.Point(927, 15);
             this.GBChat.Margin = new System.Windows.Forms.Padding(4);
             this.GBChat.Name = "GBChat";
             this.GBChat.Padding = new System.Windows.Forms.Padding(4);
@@ -382,7 +382,7 @@
             // TbChatInput
             // 
             this.TbChatInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TbChatInput.Location = new System.Drawing.Point(8, 428);
+            this.TbChatInput.Location = new System.Drawing.Point(20, 536);
             this.TbChatInput.Margin = new System.Windows.Forms.Padding(4);
             this.TbChatInput.Name = "TbChatInput";
             this.TbChatInput.Size = new System.Drawing.Size(471, 30);
@@ -397,7 +397,7 @@
             this.TbChatBox.Multiline = true;
             this.TbChatBox.Name = "TbChatBox";
             this.TbChatBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.TbChatBox.Size = new System.Drawing.Size(471, 373);
+            this.TbChatBox.Size = new System.Drawing.Size(471, 501);
             this.TbChatBox.TabIndex = 0;
             // 
             // GBAction
@@ -406,7 +406,7 @@
             this.GBAction.Controls.Add(this.BtnJoin);
             this.GBAction.Controls.Add(this.BtnAction);
             this.GBAction.Controls.Add(this.BtnVote);
-            this.GBAction.Location = new System.Drawing.Point(16, 500);
+            this.GBAction.Location = new System.Drawing.Point(549, 208);
             this.GBAction.Margin = new System.Windows.Forms.Padding(4);
             this.GBAction.Name = "GBAction";
             this.GBAction.Padding = new System.Windows.Forms.Padding(4);
@@ -465,11 +465,11 @@
             this.GBStatus.Controls.Add(this.LBPeriod);
             this.GBStatus.Controls.Add(this.label2);
             this.GBStatus.Controls.Add(this.label1);
-            this.GBStatus.Location = new System.Drawing.Point(380, 500);
+            this.GBStatus.Location = new System.Drawing.Point(549, 29);
             this.GBStatus.Margin = new System.Windows.Forms.Padding(4);
             this.GBStatus.Name = "GBStatus";
             this.GBStatus.Padding = new System.Windows.Forms.Padding(4);
-            this.GBStatus.Size = new System.Drawing.Size(152, 101);
+            this.GBStatus.Size = new System.Drawing.Size(356, 171);
             this.GBStatus.TabIndex = 8;
             this.GBStatus.TabStop = false;
             this.GBStatus.Text = "Status";
@@ -479,7 +479,7 @@
             this.LBTime.AutoSize = true;
             this.LBTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LBTime.ForeColor = System.Drawing.Color.BlueViolet;
-            this.LBTime.Location = new System.Drawing.Point(86, 58);
+            this.LBTime.Location = new System.Drawing.Point(106, 97);
             this.LBTime.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LBTime.Name = "LBTime";
             this.LBTime.Size = new System.Drawing.Size(18, 20);
@@ -492,7 +492,7 @@
             this.LBDay.AutoSize = true;
             this.LBDay.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LBDay.ForeColor = System.Drawing.Color.BlueViolet;
-            this.LBDay.Location = new System.Drawing.Point(86, 40);
+            this.LBDay.Location = new System.Drawing.Point(106, 58);
             this.LBDay.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LBDay.Name = "LBDay";
             this.LBDay.Size = new System.Drawing.Size(18, 20);
@@ -516,19 +516,20 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label2.Location = new System.Drawing.Point(11, 60);
+            this.label2.Location = new System.Drawing.Point(11, 100);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 20);
             this.label2.TabIndex = 9;
             this.label2.Text = "Time";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label1.Location = new System.Drawing.Point(11, 40);
+            this.label1.Location = new System.Drawing.Point(11, 58);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(53, 20);
@@ -540,7 +541,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SlateBlue;
-            this.ClientSize = new System.Drawing.Size(1067, 625);
+            this.ClientSize = new System.Drawing.Size(1464, 625);
             this.Controls.Add(this.GBStatus);
             this.Controls.Add(this.GBAction);
             this.Controls.Add(this.GBChat);
